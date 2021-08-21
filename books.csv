@@ -1,0 +1,84 @@
+price
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+price
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+price,title
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='A Light in the Attic'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Tipping the Velvet'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Soumission'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Sharp Objects'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Sapiens: A Brief History of Humankind'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Requiem Red'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Dirty Little Secrets of Getting Y...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Coming Woman: A Novel Based on th...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Boys in the Boat: Nine Americans ...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Black Maria'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Starving Hearts (Triangular Trade Tri...'>]>
+,"<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data=""Shakespeare's Sonnets"">]>"
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Set Me Free'>]>
+,"<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data=""Scott Pilgrim's Precious Little Life ..."">]>"
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Rip it Up and Start Again'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Our Band Could Be Your Life: Scenes f...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Olio'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Mesaerion: The Best Science Fiction S...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Libertarianism for Beginners'>]>
+,"<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data=""It's Only the Himalayas"">]>"
+price,title
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='A Light in the Attic'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Tipping the Velvet'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Soumission'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Sharp Objects'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Sapiens: A Brief History of Humankind'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Requiem Red'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Dirty Little Secrets of Getting Y...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Coming Woman: A Novel Based on th...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Boys in the Boat: Nine Americans ...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='The Black Maria'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Starving Hearts (Triangular Trade Tri...'>]>
+,"<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data=""Shakespeare's Sonnets"">]>"
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Set Me Free'>]>
+,"<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data=""Scott Pilgrim's Precious Little Life ..."">]>"
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Rip it Up and Start Again'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Our Band Could Be Your Life: Scenes f...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Olio'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Mesaerion: The Best Science Fiction S...'>]>
+,<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data='Libertarianism for Beginners'>]>
+,"<bound method SelectorList.get of [<Selector xpath='descendant-or-self::h3/a/@title' data=""It's Only the Himalayas"">]>"
